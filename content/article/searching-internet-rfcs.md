@@ -8,12 +8,15 @@
 "tags" : [ "Request for Comments", "perl tools","protocols knoweledge" ]
 }
 
-During the quarantine I was able to find the good side of the home confination: I hadn't enough time to read a book due to school's tests, but for my luck, I had enough time for reading one or two Request For Comments (RFC) documents.
+Since my first days studying computer security, the concept of "protocol" fascinated me, maybe for their enormous diffusion in almost every computer system, effectively our daily lives heavily depends from these processes which sometimes are really difficult to understand. As I say "trust on machines but don't trust humans".
 
-Since my first days studying computer security, the concept of "protocol" fascinated me. Maybe for their enormous diffusion in almost every computer system, our daily lives heavily depends from these processes. As I say "trust on machines but don't trust humans".
-The RFC approach reminds the open source philosophy, which has the same objective (give everyone the opportunity to learn new things through sharing) and the same propagation channel: the internet.
+Years passed and only in 2020, during the quarantine, I was finally able to find the good side of the home confination: I hadn't enough time to read a book due to school's tests, but for my luck, I had enough time for reading one or two Request For Comments (RFC) documents: the official resources for learning network protocols, obviously there are thousand and thousand of pages and often is better to google the interested protocol, but if you want to analyze in great detail the back-end of our computer systems the RFCs became an essential starting point, without an initial knoweledge, you can't continue.
 
-I find it too hard to search for these documents on [the IETF website](https://www.ietf.org), so I made a fast and efficient script that permits me to download RFCs through a keyword and lets me decide which ones to read and which ones to ignore.
+Continue?
+Even if you are curious or interested in Computer security the first phase of every project consist of analyzing every element which can be found online, think that internet is 
+enourmous and there is an huge avaiability of free informations, this is also the case of the RFCs, which reminds the open source philosophy, both had the same objective (give everyone the opportunity to learn new things through sharing) and the same propagation channel: the WWW.
+
+Returning to our problems, during the surfing  I found too hard to search for these documents on [the IETF website](https://www.ietf.org), so I made a fast and efficient script that permits me to download RFCs through a keyword and lets me decide which ones to read and which ones to ignore.
 
 What are RFCs?
 --------------
